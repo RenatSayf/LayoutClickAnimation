@@ -1,0 +1,2 @@
+rootProject.name='LayoutClickAnimation'
+include ':app'

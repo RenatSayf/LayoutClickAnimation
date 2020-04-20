@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutClickAnimation</string>
+    <string name="text_click">Click</string>
+</resources>
